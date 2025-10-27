@@ -6,3 +6,6 @@ Functions:
 - Something cool
 - something really cool
 - something really really cool (in the future) 
+
+Read example.env to pull necessary configurations for your own use!
+Hopefully i update it!

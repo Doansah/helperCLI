@@ -1,4 +1,4 @@
-package copycli.com.copycli;
+package copycli.com.copycli.enums;
 
  enum LightBulbColor {
     WARM_LIGHT,

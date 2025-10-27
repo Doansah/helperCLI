@@ -1,4 +1,4 @@
-package copycli.com.copycli;
+package copycli.com.copycli.command;
 
 import org.springframework.http.MediaType;
 import org.springframework.shell.standard.ShellComponent;

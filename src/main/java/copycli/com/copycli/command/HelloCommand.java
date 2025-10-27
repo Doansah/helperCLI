@@ -1,4 +1,4 @@
-package copycli.com.copycli;
+package copycli.com.copycli.command;
 
 import java.awt.Toolkit;
 import java.awt.datatransfer.Clipboard;

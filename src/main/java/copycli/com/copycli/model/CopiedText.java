@@ -1,4 +1,4 @@
-package copycli.com.copycli;
+package copycli.com.copycli.model;
 import java.time.LocalDateTime;
 
 import lombok.Getter;

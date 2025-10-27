@@ -35,4 +35,14 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Environment & Security ###
 .env
+.env.local
+.env.*.local
+application-local.properties
+**/application-local.properties
+*.key
+*.pem
+secrets/
+config/local/
