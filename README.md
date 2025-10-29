@@ -1,8 +1,8 @@
-this CLI is meant to help with menial tasks. The main reason I made it is because I need a place to see what I copy and paste. 
-
+Hi, here a personal CLI tool I built using Spring Shell! It's primarily to help me with some menial tasks, and some additional silly stuff. 
 
 Functions: 
 - Copy and Paste tracker
-- Something cool
-- something really cool
-- something really really cool (in the future) 
+- Tells Dad Jokes
+- Doc2PDF
+
+I plan to add some more features in the future! 
